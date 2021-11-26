@@ -1,0 +1,17 @@
+.link {
+    -fx-border-width: 0;
+}
+
+.link:active,
+.link:hover {
+    -fx-border-width: 0;
+    -fx-color: #000;
+}
+
+.link:active {
+}
+
+.button {
+    -fx-background-color: #e4e007;
+    -fx-border-radius: 0;
+}
